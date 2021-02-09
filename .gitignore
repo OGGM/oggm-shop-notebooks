@@ -35,3 +35,6 @@ docs/_sources
 docs/_images
 docs/.doctrees
 */edu_plots/*
+*.pdf
+*.h5
+
